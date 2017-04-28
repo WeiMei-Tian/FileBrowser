@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FileBrowser</string>
+    <string name="sd_notready_tip">your phone SDCard not ready OK</string>
+    <string name="click_file_tip">the file name is %1$s you clicked</string>
+</resources>
