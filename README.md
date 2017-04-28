@@ -10,7 +10,7 @@ Logger <br>
 EventBus <br>
 
 以下为应用截图 <br>
-![image](https://github.com/WeiMei-Tian/FileBrowser/blob/master/img/main.png "应用页面") <br>
-![image](https://github.com/WeiMei-Tian/FileBrowser/blob/master/img/end.png "应用页面") <br>
-![image](https://github.com/WeiMei-Tian/FileBrowser/blob/master/img/inner.png "应用页面") <br>
-![image](https://github.com/WeiMei-Tian/FileBrowser/blob/master/img/toast.png "应用页面") <br>
+![image](https://github.com/WeiMei-Tian/FileBrowser/blob/master/img/main.png "应用页面") 
+         ![image](https://github.com/WeiMei-Tian/FileBrowser/blob/master/img/end.png "应用页面") <br>
+![image](https://github.com/WeiMei-Tian/FileBrowser/blob/master/img/inner.png "应用页面") 
+         ![image](https://github.com/WeiMei-Tian/FileBrowser/blob/master/img/toast.png "应用页面") <br>
